@@ -1,7 +1,6 @@
-### Hi there 👋
+# Olá! Eu sou o Ronaldo Monteiro
 
-<!--
-**ronaldo-monteiro/ronaldo-monteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <p align="center">
+  <a href="https://">
+    <img src="https://skillicons.dev/icons?i=github,aws,linux,python" />
+  </a>
+</p>
+</div>
+
+
+
+
+    Certified in Cybersecurity (CC)
+
+Fortinet
+
+    Certified Associate Cybersecurity (FCAC)
+    Certified Fundamentals Cybersecurity (FCFC)
+
+Scrum.Org
