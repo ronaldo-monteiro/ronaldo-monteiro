@@ -19,10 +19,11 @@
   <p align="left">
   <a href="https://">
     <img src="https://github-readme-stats.vercel.app/api?username=ronaldo-monteiro&theme=great-gatsby&show_icons=true" />
-</a>
-</p>
+    </a>
+    </p>
+</div> 
 
-  </div>  
+<div>
   <p align="center">
   <a href="https://">
   <img src="https://skillicons.dev/icons?i=linux,aws,github,python" />
