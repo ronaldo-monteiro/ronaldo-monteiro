@@ -10,7 +10,7 @@
 
 - 👨‍💻 As vezes posto uns códigos aqui, podem corrigir, juntos somos melhores!
 
-
+<!--
 <div>  
   <p align="left">
   <a href="https://">
@@ -18,7 +18,7 @@
     </a>
     </p>
 </div> 
-
+-->
 <div>
   <p align="center">
   <a href="https://">
