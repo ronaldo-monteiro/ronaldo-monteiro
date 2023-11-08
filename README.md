@@ -9,7 +9,11 @@
 - ▶️ Ainda não tenho um canal no youtube mas quem sabe né?!
 
 - 👨‍💻 As vezes posto uns códigos aqui, podem corrigir, juntos somos melhores!
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <!--
 <div>  
   <p align="left">
