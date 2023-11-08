@@ -10,11 +10,7 @@
 
 - 👨‍💻 As vezes posto uns códigos aqui, podem corrigir, juntos somos melhores!
 
-- ❤️ Gosto muito de dinheiro, mas prefiro paz e liberdade.
-  
-- ❤️ Gosto muito de dinheiro, mas prefiro paz e liberdade.
-  
-- ❤️ Gosto muito de dinheiro, mas prefiro paz e liberdade.
+
 <div>  
   <p align="left">
   <a href="https://">
