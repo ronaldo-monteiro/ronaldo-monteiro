@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldo-monteiro&theme=great-gatsby&show_icons=true)
+  
 <div>
   <p align="center">
   <a href="https://">
