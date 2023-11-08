@@ -10,16 +10,12 @@
 
 - ▶️ Ainda não tenho um canal no youtube mas quem sabe né?!
 
-- 💬 Sim eu tenho linkedin! 
-
-- 🐕 🐕 Amo minhas cachorras, katarinha e Lindinha ❤️ 
-
 - 👨‍💻 As vezes posto uns códigos aqui, podem corrigir, juntos somos melhores!
 
 - ❤️ Gosto muito de dinheiro, mas prefiro paz e liberdade.
   
 <div>  
-  <p align="center">
+  <p align="left">
   <a href="https://">
     <img src="https://github-readme-stats.vercel.app/api?username=ronaldo-monteiro&theme=great-gatsby&show_icons=true" />
 </a>
