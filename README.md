@@ -23,6 +23,9 @@
     </p>
 </div> 
 -->
+
+<br><br>
+
 <div>
   <p align="center">
   <a href="https://">
@@ -33,6 +36,7 @@
 
 ## Contato
 
+<br><br>
 <p align="center" style="background:yellow">
 
 <a href="https://linkedin.com/in/ronaldo-monteiro" target="_blank">
