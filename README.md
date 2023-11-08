@@ -12,26 +12,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldo-monteiro&theme=great-gatsby&show_icons=true)
   
-<div>
+<div>  
+  <p align="center">
+  <a href="https://">
+    <img src="https://github-readme-stats.vercel.app/api?username=ronaldo-monteiro&theme=great-gatsby&show_icons=true" />
+</a>
+</p>
+
+
+<div>  
   <p align="center">
   <a href="https://">
     <img src="https://skillicons.dev/icons?i=github,aws,linux,python" />
-  </a>
+</a>
 </p>
 </div>
 
 
 
 
-    Certified in Cybersecurity (CC)
 
-Fortinet
-
-    Certified Associate Cybersecurity (FCAC)
-    Certified Fundamentals Cybersecurity (FCFC)
-
-Scrum.Org
