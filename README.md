@@ -12,6 +12,9 @@
 
 - ❤️ Gosto muito de dinheiro, mas prefiro paz e liberdade.
   
+- ❤️ Gosto muito de dinheiro, mas prefiro paz e liberdade.
+  
+- ❤️ Gosto muito de dinheiro, mas prefiro paz e liberdade.
 <div>  
   <p align="left">
   <a href="https://">
@@ -21,7 +24,7 @@
 
 
 <div>  
-  <p align="left">
+  <p align="center">
   <a href="https://">
   <img src="https://skillicons.dev/icons?i=linux,aws,github,python" />
 </a>
