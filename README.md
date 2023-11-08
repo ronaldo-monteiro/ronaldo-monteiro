@@ -36,22 +36,18 @@
 
 ## Contato
 
-<br><br>
-<p align="center" style="background:yellow">
+<br>
 
-<a href="https://linkedin.com/in/ronaldo-monteiro-" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Ronaldo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+<div> 
+  <p align="center">
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://twitter.com/ronaldogtr" target="_blank"><img src="https://img.shields.io/badge/Ronaldo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>  
+  </p>
 
-<a href="https://twitter.com/ronaldogtr" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Ronaldo-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
+</div>
+  
 
-<a href="https://instagram.com/ronaldogtr" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Ronaldo-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-
-</p>
 
 
 
