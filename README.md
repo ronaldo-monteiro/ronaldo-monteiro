@@ -9,11 +9,11 @@
 - ▶️ Ainda não tenho um canal no youtube mas quem sabe né?!
 
 - 👨‍💻 As vezes posto uns códigos aqui, podem corrigir, juntos somos melhores!
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br>
+
+
+
+
 <!--
 <div>  
   <p align="left">
@@ -31,6 +31,23 @@
 </p>
 </div>
 
+## Contato
+
+<p align="center" style="background:yellow">
+
+<a href="https://linkedin.com/in/ronaldo-monteiro" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Ronaldo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+
+<a href="https://twitter.com/ronaldogtr" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Ronaldo-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+
+<a href="https://instagram.com/ronaldogtr" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Ronaldo-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+
+</p>
 
 
 
