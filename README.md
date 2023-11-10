@@ -50,6 +50,12 @@
   </p>
 
 </div>
+
+<div align="center">
+<br><p align="centre"><b> Número de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ronaldo-monteiro}/count.svg" /></p> 
+<br>
+</div>
   
 
 
