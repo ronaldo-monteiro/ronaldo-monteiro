@@ -8,7 +8,7 @@
 
 - ▶️ Ainda não tenho um canal no youtube mas quem sabe né?!
 
-- ✏️ As vezes posto uns códigos, podem corrigir, juntos somos melhores!
+- ✏️ As vezes posto uns códigos, podem contribuir, juntos somos melhores!
 
 - 🚀 Fã da Tesla e Spacex!
 
