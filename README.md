@@ -24,9 +24,9 @@
 </div> 
 
 ### Certificações - Badges:
-<a href="#"><img width="110" title="AWS Cloud Practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></a>
-<a href="#"><img width="110" title="AWS Cloud Practitioner" src="https://images.credly.com/size/110x110/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png"></a>
-<a href="#"><img width="110" title="AWS Cloud Practitioner" src="https://images.credly.com/images/16f22d55-babd-448b-8265-cc81108a6430/Cloud_Service_Mgmt_and_Ops_Explorer_v2.png"></a>
+<a href="#"><img width="100" title="AWS Cloud Practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></a>
+<a href="#"><img width="100" title="AWS Cloud Practitioner" src="https://images.credly.com/size/110x110/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png"></a>
+<a href="#"><img width="100" title="AWS Cloud Practitioner" src="https://images.credly.com/images/16f22d55-babd-448b-8265-cc81108a6430/Cloud_Service_Mgmt_and_Ops_Explorer_v2.png"></a>
 
 
 
