@@ -23,8 +23,14 @@
     </p>
 </div> 
 
+### Certificações:
+<a href="#"><img width="95" title="AWS Cloud Practitioner" src="https://user-images.githubusercontent.com/53017748/205511889-affc982c-7247-4745-844f-b9c89a07ebfc.png"></a>
+<!--<a href="#"><img width="95" title="AWS Cloud Practitioner" src="https://user-images.githubusercontent.com/53017748/205511889-affc982c-7247-4745-844f-b9c89a07ebfc.png"></a> -->
 
-<br><br>
+
+
+<br>
+<br>
 
 <div>
   <p align="center">
