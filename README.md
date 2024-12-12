@@ -1,6 +1,9 @@
 # Olá! Eu sou o Ronaldo Monteiro 
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/ronaldo-monteiro/4b16614f51130fa4bb715a205ca7e004/raw/363b5f92b2cdbf07ba245b2d7a786d0ce0112cf2/ftronaldo.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/ronaldo-monteiro/3c018b1452352c33364dc7c1e596863f/raw/7b3eb261ef9362ce7ca8a46e6d209d06191e3d95/ronaldo.github.svg"/>
+
+
+
 
 - 📚 Análise & desenvolvimendo de sistemas  Devops / Cloud.
 
