@@ -31,9 +31,7 @@
 <a href="#"><img width="90" title="AWS Graduate" src="https://images.credly.com/size/110x110/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png"></a>
 <a href="#"><img width="90" title="IBM Cloud" src="https://images.credly.com/images/16f22d55-babd-448b-8265-cc81108a6430/Cloud_Service_Mgmt_and_Ops_Explorer_v2.png"></a>
 <a href="#"><img width="90" title="Github Foundations" src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"></a>
-
-
-
+<a href="#"><img width="90" title="Github Foundations" src=https://images.credly.com/size/339x339/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob></a>
 
 
 
