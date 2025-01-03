@@ -7,9 +7,9 @@
 
 - 📚 Análise & desenvolvimendo de sistemas  Devops / Cloud.
 
-- 🔭 Atualmente aprendendo Terraform e Aws.
+- 🔭 Infraestrutura, Terraform e Aws.
 
-- ✏️ As vezes posto uns códigos, podem contribuir, juntos somos melhores!
+- ✏️ Comunidade!!!
 
 - 🚀 Fã da Tesla e Spacex!
 
@@ -40,7 +40,8 @@
 </div>
 
 
-
+<br>
+<br>
 
 ## Contato
 
@@ -49,7 +50,7 @@
     <a href="https://www.linkedin.com/in/ronaldo-monteiro-" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
-    <a href="https://instagram.com/ronaldogtr" target="_blank">
+    <a href="https://instagram.com/======" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4905F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
     <a href="https://twitter.com/======" target="_blank">
