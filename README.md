@@ -16,13 +16,8 @@
 
 <br>
 
-<div>  
-  <p align="left">
-  <a href="https://">
-    <img src="https://github-readme-stats.vercel.app/api?username=ronaldo-monteiro&theme=great-gatsby&show_icons=true" />
-    </a>
-    </p>
-</div> 
+
+
 
 ### Certificações - Badges:
 <a href="#"><img width="90" title="AWS Cloud Practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"></a>
@@ -49,15 +44,23 @@
 
 ## Contato
 
-<div> 
-  <p align="center">
-  <a href="https://www.linkedin.com/in/ronaldo-monteiro-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/ronaldogtr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4905F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://twitter.com/======" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>  
+<div align="center"> 
+  <p>
+    <a href="https://www.linkedin.com/in/ronaldo-monteiro-" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+    <a href="https://instagram.com/ronaldogtr" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4905F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    </a>
+    <a href="https://twitter.com/======" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter">
+    </a>  
   </p>
-
 </div>
 
+
+</div>
+<!--
 <div align="center">
 <br><p align="centre"><b> Número de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ronaldo-monteiro}/count.svg" /></p> 
