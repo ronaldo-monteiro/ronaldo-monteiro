@@ -13,6 +13,7 @@
 
 - 🚀 Fã da Tesla e Spacex!
 
+- Linux é Liberdade e poder!
 
 <br>
 
